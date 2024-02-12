@@ -1,4 +1,4 @@
-![logo](https://github.com/ShivamGupta987/ShivamGupta987/blob/main/Profile.png)
+![logo](https://github.com/ShivamGupta987/ShivamGupta987/blob/main/Profile%20(1).png)
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
