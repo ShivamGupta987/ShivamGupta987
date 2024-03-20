@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta987&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta987" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamgupta987" alt="shivamgupta987" /></a> </p>
+
 - 🌱 I’m currently learning **Full Stack Web, WebSocket, NextJs , Material UI,**
 
 - My Resume [https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link](https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link)
