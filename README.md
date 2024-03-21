@@ -1,4 +1,4 @@
-![logo](https://github.com/ShivamGupta987/ShivamGupta987/blob/main/Profile%20(1).png)
+![image](https://github.com/ShivamGupta987/ShivamGupta987/assets/118923085/11c43313-c8ea-4112-885b-9bc52182c06e)![logo](https://github.com/ShivamGupta987/ShivamGupta987/blob/main/Profile%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web, WebSocket, NextJs , Material UI,**
 
-- My Resume [https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link](https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link)
+- 🧾 My Resume [https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link](https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamGupta987](https://github.com/ShivamGupta987)
 
