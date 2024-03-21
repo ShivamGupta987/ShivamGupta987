@@ -1,4 +1,4 @@
-![image](https://github.com/ShivamGupta987/ShivamGupta987/assets/118923085/11c43313-c8ea-4112-885b-9bc52182c06e)![logo](https://github.com/ShivamGupta987/ShivamGupta987/blob/main/Profile%20(1).png)
+![logo](https://github.com/ShivamGupta987/ShivamGupta987/blob/main/Profile%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
