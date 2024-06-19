@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Full Stack Web, WebSocket, NextJs , Material UI,**
 
+- 🌱 My most of the repositories are private,**
+
 - 🧾 My Resume [https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link](https://drive.google.com/file/d/1RPY5Ji5fCR0cbxREUb-vJ8-z1-yzUv8n/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamGupta987](https://github.com/ShivamGupta987)
