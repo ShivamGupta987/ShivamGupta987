@@ -34,5 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta987&" alt="shivamgupta987" /></p>
 
 
-
+Look at the snake eating my contributions...🐍🐍🐍
 ![snake gif](https://github.com/ShivamGupta987/ShivamGupta987/blob/output/github-contribution-grid-snake.gif)
