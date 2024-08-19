@@ -36,9 +36,6 @@
 
 
 
-<h3 align="center">Look at the snake eating my contributions...🐍🐍🐍</h3>
-
-![snake gif](https://github.com/ShivamGupta987/ShivamGupta987/blob/output/github-contribution-grid-snake.gif)
 
 
 
