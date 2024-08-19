@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamgupta987&show_icons=true&locale=en" alt="shivamgupta987" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta987&" alt="shivamgupta987" /></p>
+
+
+
+![snake gif](https://github.com/ShivamGupta987/ShivamGupta987/blob/output/github-contribution-grid-snake.gif)
