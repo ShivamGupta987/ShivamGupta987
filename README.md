@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Full Stack Web, WebSocket, NextJs, Material UI*
 
-- 🌐 Check out my portfolio: [https://portfolio-website-pi-ten-97.vercel.app](https://portfolio-website-pi-ten-97.vercel.app)
+- 🌐 Check out my portfolio: [https://shivamporttfolio.vercel.app/](https://shivamporttfolio.vercel.app/)
 
 - 🔐 Most of my repositories are **private**
 
