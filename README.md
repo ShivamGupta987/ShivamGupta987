@@ -13,7 +13,7 @@
 
 - 🔐 Most of my repositories are **private**
 
-- 🧾 My Resume: [View Here](https://drive.google.com/file/d/1Gpkq9MMmvg0BKnb90hlBvgBKcBRV7epO/view?usp=sharing)
+- 🧾 My Resume: [View Here](https://drive.google.com/file/d/17P3JkHWGAoDdWAsSwLKyAcluuyPP3-OK/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/ShivamGupta987)
 
